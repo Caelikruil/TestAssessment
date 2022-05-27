@@ -1,0 +1,6 @@
+D:\Raw Innovation Assessment\Task 1\RawAssessment\bin\Release\net5.0\publish\RawAssessment.pdb
+D:\Raw Innovation Assessment\Task 1\RawAssessment\bin\Release\net5.0\publish\clrcompression.dll
+D:\Raw Innovation Assessment\Task 1\RawAssessment\bin\Release\net5.0\publish\clrjit.dll
+D:\Raw Innovation Assessment\Task 1\RawAssessment\bin\Release\net5.0\publish\coreclr.dll
+D:\Raw Innovation Assessment\Task 1\RawAssessment\bin\Release\net5.0\publish\mscordaccore.dll
+D:\Raw Innovation Assessment\Task 1\RawAssessment\bin\Release\net5.0\publish\RawAssessment.exe
